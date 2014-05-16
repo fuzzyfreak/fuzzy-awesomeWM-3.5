@@ -10,6 +10,7 @@ local beautiful = require("beautiful")
 -- Notification library
 local naughty = require("naughty")
 local menubar = require("menubar")
+-- Require vicious
 local vicious = require("vicious")
 
 -- {{{ Error handling

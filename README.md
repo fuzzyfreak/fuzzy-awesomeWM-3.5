@@ -17,6 +17,7 @@ The first question I have for you. Then some more.
      up the code?
 2.  I would like to get keydoc from http://awesome.naquadah.org/wiki/Document_keybindings to work, any
      ideas?
+3.  What?
 
 Notes:
   The icons have been omitted but have been left in the code.
