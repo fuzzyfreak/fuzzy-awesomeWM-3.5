@@ -81,6 +81,7 @@ end
 -- }}}
 
 -- Test tag --
+-- Two different tag sets on two monitors
 tags = {
    settings = {
      { names  = { "main", "cmd", "audio", "file", "ide", "www", "image", "visual", "game", "test" },
