@@ -79,18 +79,6 @@ if beautiful.wallpaper then
 end
 -- }}}
 
--- {{{ Tags
--- Define a tag table which hold all screen tags.
---tags = {
---  names  = { "main", "cmd", "audio", "file", "ide", "www", "image", "visual", "game", "test" },
---  layout = { layouts[2], layouts[2], layouts[5], layouts[3], layouts[10],layouts[3], layouts[9], layouts[10], layouts[10], layouts[5] }
---}
-
---for s = 1, screen.count() do
-  -- Each screen has its own tag table.
---  tags[s] = awful.tag(tags.names, s, tags.layout)
---end
-
 -- Test tag --
 tags = {
    settings = {
@@ -283,6 +271,8 @@ ram = wibox.widget.textbox()
 vicious.register( ram, vicious.widgets.mem, "$2MB", 3)
 
 -- Create My MPD widget
+-- Icons should be placed in $HOME/awesome/icons
+-- or change the code to suit your needs
 mpdAtr = wibox.widget.imagebox()
 vicious.register(mpdAtr, vicious.widgets.mpd)
 mpdAtr:set_image(awful.util.getdir("config") .. "/icons/prev.png")

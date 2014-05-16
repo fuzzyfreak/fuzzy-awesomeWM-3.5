@@ -11,7 +11,15 @@ be nice (also comming soon).
 Please use this I am a shade tree programmer and would 
 love to learn more.
 
-The first question I have for you.
+The first question I have for you. Then some more.
 
 1.  Is there a method to wrap the CPU graphs to clean 
      up the code?
+2.  I would like to get keydoc from http://awesome.naquadah.org/wiki/Document_keybindings to work, any
+     ideas?
+
+Notes:
+  The icons have been omitted but have been left in the code.
+    
+Creits 
+  Heavly inspired form this source http://dotshare.it/dots/505/0/raw/
