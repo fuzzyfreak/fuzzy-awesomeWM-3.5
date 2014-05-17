@@ -21,7 +21,8 @@ The first question I have for you. Then some more.
 
 Notes:
   The icons have been omitted but have been left in the code.
+  luafilesystem is now needed for auto-starting unless already running.
     
 Creits 
-  Heavly inspired form this source http://dotshare.it/dots/505/0/raw/
-  The awesome wiki
+  Heavily inspired form this source http://dotshare.it/dots/505/0/raw/ and 
+  The awesome wiki.
